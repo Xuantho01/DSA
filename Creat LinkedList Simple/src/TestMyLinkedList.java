@@ -8,6 +8,8 @@ public class TestMyLinkedList {
 
         ll.add(4,33);
         ll.add(4,9);
+        ll.lengthOfLinkedList();
+        ll.addLast(423423);
         ll.printList();
     }
 }

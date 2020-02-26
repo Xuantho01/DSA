@@ -1,9 +1,6 @@
-import com.sun.corba.se.impl.ior.OldJIDLObjectKeyTemplate;
-
-import javax.xml.soap.Node;
-
 public class MyLinkedList {
     private Node head;
+    private  Node tail;
     private int numNodes;
 
     private class Node{
@@ -22,10 +19,13 @@ public class MyLinkedList {
     }
 
     public void add(int index, Object data){
+        addElement(index, data);
+    }
+
+    private void addElement(int index, Object data) {
         Node temp = head;
         Node holder;
-
-        for (int i = 0; i < index - 1 && temp.next != null; i++){
+        for (int i = 1; i < index; i++){
             temp = temp.next;
         }
         holder = temp.next;
@@ -39,6 +39,17 @@ public class MyLinkedList {
         head = new Node(data);
         head.next = temp;
         numNodes++;
+    }
+    int count = 0;
+    public void lengthOfLinkedList(){
+        Node temp = head;
+        while(temp != null){
+            temp = temp.next;
+            count++;
+        }
+    }
+    public void addLast(Object data){
+        addElement(count, data);
     }
 
     public Node get(int index){
