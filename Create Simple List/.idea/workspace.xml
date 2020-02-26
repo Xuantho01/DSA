@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc40041a-65c6-46bc-a274-bc4999b7b7c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Library Of ArrayList/Library Of ArrayList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Creat LinkedList Simple/out/production/Creat LinkedList Simple/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Creat LinkedList Simple/out/production/Creat LinkedList Simple/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Creat LinkedList Simple/out/production/Creat LinkedList Simple/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Creat LinkedList Simple/out/production/Creat LinkedList Simple/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Creat LinkedList Simple/out/production/Creat LinkedList Simple/TestMyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Creat LinkedList Simple/out/production/Creat LinkedList Simple/TestMyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Creat LinkedList Simple/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creat LinkedList Simple/src/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Creat LinkedList Simple/src/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Creat LinkedList Simple/src/TestMyLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Of ArrayList/Library Of ArrayList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Of ArrayList/Library Of ArrayList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library Of ArrayList/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Library Of ArrayList/src/MyList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582704841542</updated>
-      <workItem from="1582704844637" duration="3271000" />
+      <workItem from="1582704844637" duration="5429000" />
     </task>
     <servers />
   </component>
